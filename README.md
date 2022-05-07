@@ -19,8 +19,8 @@
 
 ## Installation :
 
-* `apt update`
-* `apt install git -y`
+* `apk update`
+* `apk add git`
 * `git clone git://github.com/htr-tech/nexphisher.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
@@ -29,7 +29,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apk update && apk add git && git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
 ```
 <br>
 <p align="center">
