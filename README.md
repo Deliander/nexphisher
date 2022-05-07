@@ -29,7 +29,7 @@ This is the ish version
 
 ## Single Command :
 ```
-apk update && apk add git && git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apk update && apk add git && git clone git://github.com/htr-tech/nexphisher.git && cd nexphisher && bash setup && bash nexphisher
 ```
 <br>
 <p align="center">
