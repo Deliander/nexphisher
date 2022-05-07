@@ -18,7 +18,7 @@
 </p>
 
 ## Installation :
-
+This is the ish version 
 * `apk update`
 * `apk add git`
 * `git clone git://github.com/htr-tech/nexphisher.git`
