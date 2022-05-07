@@ -21,7 +21,7 @@
 This is the ish version 
 * `apk update`
 * `apk add git`
-* `git clone git://github.com/htr-tech/nexphisher.git`
+* `git clone https://github.com/Deliander/nexphisher.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -29,7 +29,7 @@ This is the ish version
 
 ## Single Command :
 ```
-apk update && apk add git && git clone git://github.com/htr-tech/nexphisher.git && cd nexphisher && bash setup && bash nexphisher
+apk update && apk add git && git clone https://github.com/Deliander/nexphisher.git && cd nexphisher && bash setup && bash nexphisher
 ```
 <br>
 <p align="center">
