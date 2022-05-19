@@ -18,7 +18,7 @@
 </p>
 
 ## Installation :
-This is the ish version 
+This is the Alpine Shell version 
 * `apk update`
 * `apk add git`
 * `git clone https://github.com/Deliander/nexphisher.git`
