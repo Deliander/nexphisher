@@ -17,11 +17,11 @@ banner
 printf "\e[0m\n"
 printf "\e[0m\e[1;91m [\e[1;97m~\e[1;91m]\e[1;93m Installing Packages ....\e[0m\n"
 printf "\e[0m\n"
-apt-get -y install ssh
-apt-get -y install curl
-apt-get -y install php
-apt-get -y install unzip
-apt-get -y install openssh-server
+brew install ssh
+brew install curl
+brew install php
+brew install unzip
+brew install openssh-server
 printf "\e[0m\n"
 printf "\e[0m\e[1;91m [\e[1;97m~\e[1;91m]\e[1;93m Setting Up Environment ....\e[0m\n"
 if [[ -d .htr ]]; then
